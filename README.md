@@ -1,7 +1,7 @@
 <img width="100%" src="assets/header.svg" alt="Ahmad Lababidi, AI and ML Engineer"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=Training+models+in+PyTorch;Serving+them+with+FastAPI+%2B+Docker;Wrapping+them+in+Streamlit+UIs;AI+%26+Data+Science+%40+MEU%2C+Amman" alt="Training models in PyTorch, serving them with FastAPI and Docker, wrapping them in Streamlit UIs"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=EF4444&center=true&vCenter=true&width=620&lines=Training+models+in+PyTorch;Serving+them+with+FastAPI+%2B+Docker;Wrapping+them+in+Streamlit+UIs;AI+%26+Data+Science+%40+MEU%2C+Amman" alt="Training models in PyTorch, serving them with FastAPI and Docker, wrapping them in Streamlit UIs"/>
 </p>
 
 <p align="center">

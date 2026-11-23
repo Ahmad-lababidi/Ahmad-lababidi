@@ -1,18 +1,12 @@
-<!-- Profile README for github.com/Ahmad-lababidi — paste into the Ahmad-lababidi/Ahmad-lababidi repo -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Ahmad%20Lababidi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20ML%20Engineer%20%C2%B7%20I%20ship%20models%2C%20not%20just%20notebooks&descAlignY=58&descSize=17" alt="Ahmad Lababidi"/>
+<img width="100%" src="assets/header.svg" alt="Ahmad Lababidi, AI and ML Engineer"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=Training+models+in+PyTorch;Serving+them+with+FastAPI+%2B+Docker;Wrapping+them+in+Streamlit+UIs;AI+%26+Data+Science+%40+MEU%2C+Amman+%F0%9F%87%AF%F0%9F%87%B4" alt="Typing intro"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=Training+models+in+PyTorch;Serving+them+with+FastAPI+%2B+Docker;Wrapping+them+in+Streamlit+UIs;AI+%26+Data+Science+%40+MEU%2C+Amman" alt="Training models in PyTorch, serving them with FastAPI and Docker, wrapping them in Streamlit UIs"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmad-lababidi-"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:ahmad.lababidi05@hotmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collabs-22c55e?style=for-the-badge" alt="Open to internships"/>
-  <img src="https://komarev.com/ghpvc/?username=Ahmad-lababidi&style=for-the-badge&color=38bdf8&label=Profile+views" alt="Profile views"/>
+  <a href="https://www.linkedin.com/in/ahmad-lababidi-"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NXYtNS41N2MwLTEuMzMtLjAzLTMuMDQtMS44NS0zLjA0LTEuODYgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+" alt="Connect on LinkedIn"/></a>
+  <a href="mailto:ahmad.lababidi05@hotmail.com?subject=Collaboration%20/%20internship%20opportunity&body=Hi%20Ahmad%2C%0A%0AI%20am%20%5BYour%20name%5D%20from%20%5BCompany%20/%20University%5D.%0A%0AI%20came%20across%20your%20GitHub%20and%20was%20wondering%20if%20you%20would%20consider%20collaborating%20on%20%5Bproject%20or%20idea%5D.%0A%0A%5BA%20few%20details%20about%20the%20project%2C%20role%20or%20timeline%5D%0A%0ABest%20regards%2C%0A%5BYour%20name%5D"><img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collabs-22c55e?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cmVjdCB4PSIyIiB5PSI0IiB3aWR0aD0iMjAiIGhlaWdodD0iMTYiIHJ4PSIyIi8+PHBhdGggZD0ibTIgNiAxMCA3IDEwLTciLz48L3N2Zz4%3D" alt="Open to internships and collaborations: email me"/></a>
 </p>
 
 ---
@@ -84,18 +78,9 @@ Feature engineering (vehicle age, region, condition rank, model frequency) and l
 
 ---
 
-### 📊 GitHub at a glance
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-lababidi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahmad-lababidi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-</p>
-
----
-
 <p align="center">
   <b>Building something with ML, data or computer vision? Let's talk.</b><br/>
   <a href="https://www.linkedin.com/in/ahmad-lababidi-">LinkedIn</a> · <a href="mailto:ahmad.lababidi05@hotmail.com">Email</a> · or open an issue on any repo
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt=""/>
+<img width="100%" src="assets/footer.svg" alt=""/>

@@ -31,6 +31,7 @@ I'm an AI & Data Science student at **Middle East University, Amman** (Class of 
 Compares three models side by side: a custom **DenseLogoCNN**, **kNN on CNN embeddings**, and a fine-tuned **ResNet18**. Upload an image and get top predictions with confidence scores.
 
 `PyTorch` `FastAPI` `Streamlit` `Docker`
+
 🔐 API-key auth · ⏱️ rate limiting · 🐳 two-service Compose setup
 
 </td>
@@ -40,6 +41,7 @@ Compares three models side by side: a custom **DenseLogoCNN**, **kNN on CNN embe
 Predicts **Poor / Standard / Good** credit scores. One `docker compose up` cleans the data, trains and benchmarks 3 models, then starts the API and UI.
 
 `scikit-learn` `FastAPI` `Streamlit` `Docker`
+
 📊 LogReg vs Decision Tree vs Random Forest
 
 </td>
@@ -51,6 +53,7 @@ Predicts **Poor / Standard / Good** credit scores. One `docker compose up` clean
 **ALS** (`implicit`) vs **Neural Collaborative Filtering** (PyTorch) on **25M ratings**, using a chronological split, ranking metrics and a popularity fallback for cold-start users.
 
 `PyTorch` `implicit` `Parquet` `AMP/CUDA`
+
 📈 NCF test RMSE **0.812**
 
 </td>
@@ -60,6 +63,7 @@ Predicts **Poor / Standard / Good** credit scores. One `docker compose up` clean
 Feature engineering (vehicle age, region, condition rank, model frequency) and log-target regression across SVR, SGD, Random Forest and Gradient Boosting.
 
 `scikit-learn` `pandas` `NumPy`
+
 🎯 Random Forest **R² 0.957**, MAE **$1,633**
 
 </td>
